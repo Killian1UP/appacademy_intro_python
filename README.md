@@ -6,3 +6,10 @@ In week 7 we touched on concepts such as:
 - Control Statements
 - Operators on Intergers & Strings
 - Loops (For loop & While loop)
+
+In week 8 we touched on concepts such as:
+- Tuples
+- Sets
+- Dictionaries
+- Lists
+- Task (Shopping Cart)
