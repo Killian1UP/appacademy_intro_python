@@ -13,3 +13,9 @@ In week 8 we touched on concepts such as:
 - Dictionaries
 - Lists
 - Task (Shopping Cart)
+
+In week 9 we touched on concepts such as:
+- Functions
+- Modules
+- Exception Handling
+- Calculator (Calculating area and parameter of a rectangle, utilizing functions and modules)
